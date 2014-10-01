@@ -1,11 +1,16 @@
 /**
  * phantomjs script for printing presentations to PDF.
  *
- * Example:
+ * Example, running local server in the present directory, defaulting to writing to slides.pdf
+ * phantomjs print-pdf.js
+ *
+ * Example, pulling from any URL
  * phantomjs print-pdf.js "http://lab.hakim.se/reveal-js?print-pdf" reveal-demo.pdf
  *
- * By Manuel Bieh (https://github.com/manuelbieh)
+ * By Manuel Bieh (https://github.com/manuelbieh) - https://github.com/hakimel/reveal.js/blob/master/plugin/print-pdf/print-pdf.js
+ * modified by shearer12345 (https://github.com/shearer12345) to delay rendering to allow pages that load content after on_load still work (usually). Also modified to run a simple web server to serve the content.
  */
+ 
 var childProcess = require('child_process');
 console.log( 'Starting pythonHttpServer' );
 var pythonHttpServer = childProcess.spawn(
@@ -33,7 +38,7 @@ page.paperSize = {
 };
 page.zoomFactor = 1.0;
 
-var revealFile = system.args[1] || 'index.html?print-pdf';
+var revealFile = system.args[1] || 'http://localhost:8000/?print-pdf/#/';
 var slideFile = system.args[2] || 'slides.pdf';
 
 if( slideFile.match( /\.pdf$/gi ) === null ) {
