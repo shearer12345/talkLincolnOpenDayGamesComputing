@@ -327,7 +327,7 @@
 
 - Thank you for your interest in the University, the School of Computer Science and our work!
 
-- @lsocs_updates
+- @UoLComputerSci
 - @games_lincoln
 - socs.blogs.lincoln.ac.uk
 - www.facebook.com/lsocs
