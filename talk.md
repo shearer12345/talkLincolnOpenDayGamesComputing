@@ -259,18 +259,6 @@
 <img src="assets/android.jpg" alt="android"  height="120">
 
 
-##Facilities
-
-- Raspberry Pi!
-- All current first year students are given a Raspberry Pi
-- They are intended to build interest and develop learning in programming and operating system development.
-- They will be used in some of the teaching modules, but also personal developments are encouraged.
-
-<img src="assets/raspberryPi2.jpg" alt="raspberryPi2"  height="300">
-<img src="assets/raspberryPi3.jpg" alt="raspberryPi3"  height="300">
-
-
-
 ##Graduate Spotlight
 
 <img src="assets/daveStenton.png" alt="daveStenton"  height="200">
