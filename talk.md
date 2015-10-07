@@ -45,8 +45,8 @@
 
 > - BSc(Hons) Games Computing,
 > - MSc Advanced Games Computing,
-> - PhD research student.
->   - Olivier's crowd simulation research
+> - Completed PhD 2015
+>   - Crowd simulation research
 
 
 
@@ -70,19 +70,22 @@
 
 ###Games Programming
 
-<img src="assets/gamesProgramming.png" alt="gamesProgramming"  height="350">
+<img src="assets/oculusRift.jpg" alt="oculusRift"  height="300">
+<img src="assets/gamesProgramming.png" alt="gamesProgramming"  height="300">
 
-> - Masters students investigate games programming with a Playstation2 Linux Development Kit and Xbox360 consoles.
+> - Masters students dig deeper into Games Computing and target new platforms - VR, mobiles, consoles, web.
 
 
 ###Why study Games Computing?
 
-- Games Computing includes contemporary industry trends, such as:
+- Games Computing includes contemporary industry and social trends, such as:
 	- Serious games
 	- Social games
 	- Mobile technologies
+	- Interactive Art
 
-<img src="assets/blowtooth.jpg" alt="blowtooth"  height="350">
+<img src="assets/eyeResonator.jpg" alt="eyeResonator"  height="300">
+<img src="assets/blowtooth.jpg" alt="blowtooth"  height="300">
 
 
 ###Why study Games Computing?
@@ -152,7 +155,7 @@
 
 ##Third Year - Required
 
-- Project (Computer Science) [double module]
+- Individual Project [double module]
 - Advanced Games Studies [double module]
 - Game Engine Architectures
 - Physics Simulation
@@ -172,6 +175,7 @@
 - Autonomous Mobile Robotics [Optional]
 - Image Processing [Optional]
 
+<img src="assets/openCLlogo.jpg" alt="openCLlogo"  height="200">
 <img src="assets/opencv.png" alt="opencv"  height="200">
 
 
@@ -201,6 +205,7 @@
 
 ##Prospects and Placements
 
+<img src="assets/rockstarGamesLogo.png" alt="rockstarGamesLogo"  height="150">
 <img src="assets/jagex.png" alt="jagex"  height="150">
 <img src="assets/google.png" alt="google"  height="150">
 <img src="assets/nintendo.png" alt="nintendo"  height="150">
@@ -216,6 +221,7 @@
 - Further study and research degrees are available.
 - Placements and internships are promoted and encouraged
 
+<img src="assets/rockstarGamesLogo.png" alt="rockstarGamesLogo"  height="50">
 <img src="assets/jagex.png" alt="jagex"  height="50">
 <img src="assets/google.png" alt="google"  height="50">
 <img src="assets/nintendo.png" alt="nintendo"  height="50">
@@ -245,30 +251,18 @@
   - i7 3.7GHz, 16GB RAM, NVidia GeForce GTX 750 Ti
 - Unreal Development Kit software
 - Unity Game Engine
-- XBox360 Kinect camera systems
+- Microsoft Kinect camera systems
 - Touch screen monitors
 - Android/iOS mobile devices
 
 <img src="assets/nvidiaGeForceGTX780Ti.jpg" alt="nvidiaGeForceGTX780Ti"  height="120">
 <img src="assets/ubuntu.jpg" alt="ubuntu"  height="120">
-<img src="assets/raspberryPi1.jpg" alt="raspberryPi1"  height="120">
+<img src="assets/visual-studio-2013-logo.png" alt="visual-studio-2013-logo"  height="120">
 <img src="assets/raspberryPi2.jpg" alt="raspberryPi2"  height="120">
 <img src="assets/unity.jpg" alt="unity"  height="120">
 <img src="assets/kinect.jpg" alt="kinect"  height="120">
 <img src="assets/unrealEngine.jpg" alt="unrealEngine"  height="120">
 <img src="assets/android.jpg" alt="android"  height="120">
-
-
-##Facilities
-
-- Raspberry Pi!
-- All current first year students are given a Raspberry Pi
-- They are intended to build interest and develop learning in programming and operating system development.
-- They will be used in some of the teaching modules, but also personal developments are encouraged.
-
-<img src="assets/raspberryPi2.jpg" alt="raspberryPi2"  height="300">
-<img src="assets/raspberryPi3.jpg" alt="raspberryPi3"  height="300">
-
 
 
 ##Graduate Spotlight
@@ -280,9 +274,9 @@
 ##Graduate Spotlight
 
 - David Stenton graduated with BSc(Hons) Games Computing
-- After an early career with UK-based games developer, Warthog, David joined Bioware and relocated to Canada
-- He was recently a design team leader on the hugely successful Mass Effect 2 release
-- David was awarded an Alumni Award at this years Graduation ceremonies
+- After an early career with UK-based games developer, **Warthog**, David joined **Bioware** and relocated to Canada
+- He was recently a design team leader on the hugely successful **Mass Effect**
+- David was recently awarded an Alumni Award from the University of Lincoln
 
 
 
