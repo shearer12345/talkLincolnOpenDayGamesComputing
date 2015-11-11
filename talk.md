@@ -122,6 +122,8 @@
 - group work and professional practice
 - optional modules
 
+- NOTE: these modules are examples - the specific set of modules may change
+
 <img src="assets/spacewar.jpg" alt="spacewar"  height="350">
 
 
@@ -228,6 +230,8 @@
 <img src="assets/blueprint.png" alt="blueprint"  height="50">
 <img src="assets/ea.jpg" alt="ea"  height="50">
 
+- NOTE: graduate employment rates vary from year to year, the above numbers may not be the latest
+
 
 
 ##Placement / Internship
@@ -247,7 +251,7 @@
 
 ##Facilities
 
-- Windows, Linux, MacOS workstations
+- Windows, Linux, MacOS workstations (2015 start)
   - i7 3.7GHz, 16GB RAM, NVidia GeForce GTX 750 Ti
 - Unreal Development Kit software
 - Unity Game Engine
