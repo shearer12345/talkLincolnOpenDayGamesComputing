@@ -10,9 +10,6 @@
 ###Dr. John Shearer - programme leader
 
 <img src="assets/shearerPro2.jpg" alt="shearer"  height="200">
-> "The University is fully committed to research-engaged study. The School of Computer Science has an excellent reputation for research, and students undertake their studies guided by research active staff."
-  - Dr. David Cobham, Head of the School of Computer Science
-
 
 
 ##Welcome
@@ -28,6 +25,15 @@
 > - MSc by Research
 
 
+
+##Hashtag Dungeon
+
+- A commercial game (**Steam**, **itch.io**) built by some of our (ex) students
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed?playlist=yEU06gfoQf0&loop=1" frameborder="0" allowfullscreen ></iframe>
+
+
+
 ##What is Games Computing?
 
 - The study of games development and games design issues from a technical perspective.
@@ -35,6 +41,21 @@
 - Emphasis on underpinning computer science fundamentals.
 
 - Strong ethos of research and analytical thinking
+
+
+##State of the Art (2016)
+
+- Forza Horizons 3
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed?playlist=fTSUgXkfooA&loop=1" frameborder="0" allowfullscreen></iframe>
+
+
+##Interactive Media
+
+- The Cube at QUT (Brisbane, AU)
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed?playlist=HTjjX5mW_aY&loop=1" frameborder="0" allowfullscreen></iframe>
+
 
 
 ##Student Profile
@@ -85,17 +106,32 @@
 	- Interactive Art
 
 <img src="assets/eyeResonator.jpg" alt="eyeResonator"  height="300">
-<img src="assets/blowtooth.jpg" alt="blowtooth"  height="300">
+<img src="assets/gerling2.png" alt="gerling2"  height="300">
 
 
 ###Why study Games Computing?
 
-- Be equipped for a career in the games industry or in other related technology sectors
+- Be equipped for a career in the games industry
 
 <img src="assets/maungBo.png" alt="maungBo"  height="250">
 <img src="assets/blueprint.png" alt="blueprint"  height="100">
 
 > - Maung Bo, 4th year MComp Games Computing, worked in partnership with Blueprint Games of Newark for his 3rd year project
+
+
+###Why study Games Computing?
+
+- or in other related technology sectors
+
+<img src="assets/Vive_pre.jpg" alt="htc_vive"  height="300">
+
+> Jack Gallacher
+
+> BSc Games Computing (2015)
+
+> MSc by Research - Spectator experiences of VR (2016)
+
+> **Hired by BAE Systems**
 
 
 
@@ -127,7 +163,7 @@
 <img src="assets/spacewar.jpg" alt="spacewar"  height="350">
 
 
-##First year
+##First year (2016 entry)
 
 - Introductory Games Studies
 - Game Design 1
@@ -140,7 +176,7 @@
 <img src="assets/protomen_protoman_game_design__inked__by_katrinathelamia-d5n9ehh.png" alt="protomen_protoman_game_design__inked__by_katrinathelamia-d5n9ehh"  height="250">
 
 
-##Second Year
+##Second Year (2016 entry)
 
 - Graphics
 - Object-Oriented Programming
@@ -155,17 +191,18 @@
 <img src="assets/bigBuckBunny.png" alt="bigBuckBunny"  height="350">
 
 
-##Third Year - Required
+##Third Year - Required (2016 entry)
 
 - Individual Project [double module]
-- Advanced Games Studies [double module]
+- Advanced Games Studies
+- Tools for Making Games
 - Game Engine Architectures
 - Physics Simulation
 
 <img src="assets/physicEngineBullet.jpg" alt="physicEngineBullet"  height="350">
 
 
-##Third Year - Options
+##Third Year - Options (2016 entry)
 
 - Software Engineering [Optional]
 - Parallel Computing [Optional]
@@ -174,25 +211,25 @@
 - Entrepreneurship and Innovation 2 [Optional]
 - Business Intelligence [Optional]
 - Critical Perspectives on Project Management [Optional]
-- Autonomous Mobile Robotics [Optional]
 - Image Processing [Optional]
+- Autonomous Mobile Robotics [Optional]
 
 <img src="assets/openCLlogo.jpg" alt="openCLlogo"  height="200">
 <img src="assets/opencv.png" alt="opencv"  height="200">
 
 
-##Fourth Year (MComp) - Required
+##Fourth Year (MComp) - Required (2016 entry)
 
 - Movement Interfaces
 - Advanced Graphics
 - MComp Research Project
-- Software Engineering (M)
 
+- Software Engineering (M)
 <img src="assets/kinect2.jpg" alt="kinect2"  height="250">
 <img src="assets/movementInterfaces.jpg" alt="movementInterfaces"  height="250">
 
 
-##Fourth Year (MComp) - Options
+##Fourth Year (MComp) - Options (2016 entry)
 
 - Parallel Computing (M) [Optional]
 - Entrepreneurship and Innovation 1 (M) [Optional]
@@ -203,6 +240,7 @@
 - Data Analytics and Visualisation [Optional]
 
 <img src="assets/openCL.png" alt="openCL"  height="250">
+
 
 
 ##Prospects and Placements
@@ -217,7 +255,7 @@
 
 ##Prospects and Placements
 
-- 93.1% of our graduates are in employment 6 months after graduation (Sector average: 84%) (for the School)
+- 93.1% of our graduates are in employment 6 months after graduation (Sector average: 84%) (for the School) (2015 data)
 - Games Computing graduates find employment in a wide range of destinations.
 - Projects and recruitment links with Electronic Arts
 - Further study and research degrees are available.
@@ -232,6 +270,10 @@
 
 - NOTE: graduate employment rates vary from year to year, the above numbers may not be the latest
 
+
+##National Student Survery
+
+- The 2016 National Student Survey (NSS) puts us in the top 20% nationally against all university computing departments for overall student satisfaction.
 
 
 ##Placement / Internship
@@ -251,12 +293,11 @@
 
 ##Facilities
 
-- Windows, Linux, MacOS workstations (2015 start)
-  - i7 3.7GHz, 16GB RAM, NVidia GeForce GTX 750 Ti
-- Unreal Development Kit software
-- Unity Game Engine
-- Microsoft Kinect camera systems
-- Touch screen monitors
+- Windows, Linux, MacOS workstations (or similar, 2016 start)
+  - 6th generation i5 4.0GHz, 16GB RAM, NVidia GeForce GTX 970
+  - 5th generation i7 3.7GHz, 16GB RAM, NVidia GeForce GTX 750 Ti
+- Unreal Development Kit software, - Unity Game Engine
+- Microsoft Kinects, RaspberryPis
 - Android/iOS mobile devices
 
 <img src="assets/nvidiaGeForceGTX780Ti.jpg" alt="nvidiaGeForceGTX780Ti"  height="120">
@@ -267,6 +308,24 @@
 <img src="assets/kinect.jpg" alt="kinect"  height="120">
 <img src="assets/unrealEngine.jpg" alt="unrealEngine"  height="120">
 <img src="assets/android.jpg" alt="android"  height="120">
+
+
+##VR
+
+- Various VR equipment
+- HTC Vive, Oculus Rift
+- Large VR suite in new building (opening 2017)
+  - multiple concurrent VR spaces
+
+<img src="assets/Vive_pre.jpg" alt="htc_vive"  height="800">
+
+
+##Isaac Newton building
+
+- Home to the School from mid-2017
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed?playlist=g4XUPgpb_KI&loop=1" frameborder="0" allowfullscreen></iframe>
+
 
 
 ##Graduate Spotlight
@@ -304,20 +363,24 @@
 
 
 
-##Computing Society
+##Gaming Society
 
-- Open to all students in the School
-- Organises events, visiting speakers and socials
-- GameJam 2012
-  - 24 hour game 	development marathon!
+- Open to all students in the University
+- Focused on *playing* games
 
-- This year
-  - GameJam2014
-  - CanJam2014
-  - The Seven Day	Game Challenge
 
-<img src="assets/computingSociety1.jpg" alt="computingSociety1"  height="250">
-<img src="assets/computingSociety2.jpg" alt="computingSociety2"  height="250">
+##Game Development Society
+
+- in progress
+- students working towards creating an inclusive society around building games
+- for all students
+
+
+##Game Jams and Hackathons
+
+- We run/facilitate many Hackathons and Game Jams through the year
+  - e.g. Global Game Jam
+- Plus, you can organise your own, and ask us to support
 
 
 
@@ -326,9 +389,8 @@
 - Thank you for your interest in the University, the School of Computer Science and our work!
 
 - @UoLComputerSci
-- @games_lincoln
-- socs.blogs.lincoln.ac.uk
-- www.facebook.com/lsocs
+- http://socs.blogs.lincoln.ac.uk
+- http://www.facebook.com/lsocs
 
 <img src="assets/twitter.png" alt="twitter"  height="150">
 <img src="assets/blog.png" alt="blog"  height="150">
