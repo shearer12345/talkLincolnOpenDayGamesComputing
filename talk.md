@@ -14,21 +14,10 @@
 
 ##Welcome
 
-- A very warm welcome from the School of Computer Science.
-
 - Staff and students are on hand today to answer your questions.
 
-<img src="assets/jamesMunro.png" alt="jamesMunro"  height="250">
-
-> - James Munro
-> - BSc(Hons) Games Computing
-> - MSc by Research
-
-
-
-##Hashtag Dungeon
-
-- A commercial game (**Steam**, **itch.io**) built by some of our (ex) students
+- Hashtag Dungeon
+  - A commercial game (**Steam**, **itch.io**) built by some of our (ex) students
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed?playlist=yEU06gfoQf0&loop=1" frameborder="0" allowfullscreen ></iframe>
 
@@ -186,7 +175,7 @@
 - Game Design 2
 - Professional Practice
 - Group Project
-- Study Period Abroad [optional]
+
 
 <img src="assets/bigBuckBunny.png" alt="bigBuckBunny"  height="350">
 
