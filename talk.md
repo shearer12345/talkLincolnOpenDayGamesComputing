@@ -244,7 +244,7 @@
 
 ##Prospects and Placements
 
-- 93.1% of our graduates are in employment 6 months after graduation (Sector average: 84%) (for the School) (2015 data)
+- 90.2% of our graduates are in relevant employment 6 months after graduation (Sector average: 84%) (for the School) (DLHE Report 2015-16)
 - Games Computing graduates find employment in a wide range of destinations.
 - Projects and recruitment links with Electronic Arts
 - Further study and research degrees are available.
